@@ -1,4 +1,4 @@
-# Customer-Purchase-Behavior
+# Customer-Behavior-Analysis
 
 ### Entity Relationship Diagram
 
